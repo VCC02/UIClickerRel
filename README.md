@@ -1,6 +1,6 @@
 # UIClickerRel
 Releases for UIClicker (binaries)
-Compiled with CT 8.2.
+Compiled with CT 8.3.
 
 .
 
