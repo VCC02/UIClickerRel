@@ -1,6 +1,6 @@
 # UIClickerRel
 Releases for UIClicker (binaries)
-Compiled with CT 8.4.
+Compiled with CT 9.0.
 
 .
 Project-level compiler switches:
